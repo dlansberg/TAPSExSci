@@ -1,3 +1,5 @@
+# Note! This project was uploaded as a complete file and has been sent to the journal of Astronomy and Astrophysics for peer-review as of March, 2026.
+
 Authors:
 Diya A. Lansberg, UC Berkeley
 Mariusz Tarnopolski, Institute of Astronomy, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University
